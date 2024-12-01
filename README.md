@@ -1,7 +1,6 @@
-- I'm a real human
-- Don't question my existance
-- I'm not anything but healthy human
-- Do not reach out to me.
+- im just a chill guy
+- i cant code for shit
+- 90% of my assets are placeholders
 
 <!---
 JackHack101/JackHack101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
