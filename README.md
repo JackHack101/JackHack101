@@ -1,6 +1,4 @@
-- im just a chill guy
-- i cant code for shit
-- 90% of my assets are placeholders
+- im him
 
 <!---
 JackHack101/JackHack101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
